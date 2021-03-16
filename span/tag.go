@@ -1,4 +1,4 @@
-package model
+package span
 
 type Tag struct {
 	Key       string `json:"key"`
